@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AEE6-0358
+
+ Directory of C:\Users\Sagar\Desktop\Prac
+
+26-11-2019  16:27    <DIR>          .
+26-11-2019  16:27    <DIR>          ..
+26-11-2019  16:22                25 learning.txt
+26-11-2019  16:27                 0 t1.txt
+               2 File(s)             25 bytes
+               2 Dir(s)  196,049,260,544 bytes free
